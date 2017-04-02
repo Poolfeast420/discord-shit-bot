@@ -10,7 +10,7 @@ vocabulary = {
     'yours':
         ['you','your',"you're","your's",'yoors']
     'response_list':
-        ['fuk u','i h8 u','please fuk off','you talking about me you little bitch','wot','dont come crying to me','fuck off Clarance','i\'m sorry but your opinions means very little to me','dont break an arm jerking yourself off','your authority is not recognized in fort kickass']
+        ['fuk u','i h8 u','please fuk off','you talking about me you little bitch','wot','dont come crying to me','fuck off Clarance','i\'m sorry but your opinions means very little to me','dont break an arm jerking yourself off','your authority is not recognized in fort kickass', 'your ego\'s riting cheques your body can\'t cash', 'UR NOt MY SUPERVISOR!', 'i\'m going to need you to take your opinion and shove it waaaaaayyyyy up your butthole. all the way up there', 'you filthy jew', 'how wood u lyk to suk. my. balls.']
 }
 
 search = {
